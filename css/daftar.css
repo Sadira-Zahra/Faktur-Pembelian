@@ -1,0 +1,750 @@
+.frame-child1091 {
+  height: 105px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray-1200);
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.image-1-icon14 {
+  width: 163px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-1-wrapper {
+  height: 86px;
+  width: 321px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.menu2 {
+  width: 119px;
+  white-space: nowrap;
+}
+.faq6,
+.menu2,
+.tentang-kami27 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.faq6 {
+  width: 86px;
+}
+.tentang-kami27 {
+  align-self: stretch;
+  height: 74px;
+  white-space: nowrap;
+}
+.tentang-kami-wrapper16 {
+  width: 350px;
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.menu-f-a-q,
+.menu-f-a-q-wrapper,
+.tentang-kami-wrapper16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.menu-f-a-q {
+  margin: 0;
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-26xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.menu-f-a-q-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  margin: 0 0 0-78px;
+}
+.arrow-drop-down-icon1 {
+  width: 27px;
+  height: 30px;
+  position: relative;
+  overflow: auto;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.arrow-drop-down-container {
+  height: 64px;
+  width: 460px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-15xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-left: -78px;
+}
+.masuk5 {
+  margin: 0;
+  align-self: stretch;
+  height: 74px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.input-field4,
+.rectangle-parent629 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.input-field4 {
+  width: 138px;
+  flex-direction: column;
+  padding: var(--padding-mid) 0 0;
+  margin-left: -78px;
+}
+.rectangle-parent629 {
+  align-self: stretch;
+  background-color: var(--color-gray-1200);
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-32xl) 0;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.image-container-child1 {
+  width: 657px;
+  height: 1013px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-cornflowerblue-300);
+  display: none;
+  max-width: 100%;
+}
+.image-2-icon4 {
+  height: 134px;
+  width: 231px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.admin-sign-up-button {
+  width: 397px;
+  height: 134px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.daftar-sebagai-admin {
+  margin: 0;
+  align-self: stretch;
+  height: 68px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.confirm-password-field {
+  width: 406px;
+  height: 323px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 1;
+}
+.image-container7,
+.sign-up-message {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sign-up-message {
+  align-self: stretch;
+  gap: 122px;
+}
+.image-container7 {
+  width: 657px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-cornflowerblue-300);
+  padding: var(--padding-24xl) var(--padding-47xl) 219px var(--padding-107xl);
+  box-sizing: border-box;
+  gap: 104px;
+  min-width: 657px;
+}
+.profile-form-title-child {
+  width: 696px;
+  height: 1013px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(#fffefe, #fffefe), #f5f5f5;
+  display: none;
+  max-width: 100%;
+}
+.nama-lengkap2,
+.selamat-datang-di {
+  position: relative;
+  font-family: var(--font-inter);
+  text-align: left;
+}
+.selamat-datang-di {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  color: var(--color-black);
+  z-index: 1;
+}
+.nama-lengkap2 {
+  width: 221px;
+  height: 38px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-900);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.no-h-p-input,
+.registration-form-fields {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.registration-form-fields {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-lightsteelblue);
+  height: 70px;
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-xl) var(--padding-3xs);
+  box-sizing: border-box;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-900);
+  min-width: 250px;
+  z-index: 1;
+}
+.no-h-p-input {
+  flex-direction: column;
+}
+.no-hp {
+  width: 157px;
+  height: 38px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-900);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.no-h-p-input-child,
+.no-h-p-input1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.no-h-p-input-child {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-lightsteelblue);
+  height: 70px;
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-xl) var(--padding-3xs);
+  box-sizing: border-box;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-900);
+  min-width: 250px;
+  z-index: 1;
+}
+.no-h-p-input1 {
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.password4,
+.password5 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-900);
+  text-align: left;
+  display: inline-block;
+  z-index: 2;
+}
+.password5 {
+  z-index: 3;
+  margin-left: -157px;
+}
+.no-h-p-input-item,
+.no-h-p-input2,
+.password-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.password-group {
+  width: 157px;
+  flex-direction: row;
+}
+.no-h-p-input-item,
+.no-h-p-input2 {
+  align-self: stretch;
+}
+.no-h-p-input-item {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-lightsteelblue);
+  height: 70px;
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-xl) var(--padding-3xs);
+  box-sizing: border-box;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-900);
+  min-width: 250px;
+  z-index: 1;
+}
+.no-h-p-input2 {
+  flex-direction: column;
+}
+.featured-insights,
+.konfirmasi-password1 {
+  flex-shrink: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-900);
+}
+.konfirmasi-password1 {
+  width: 252px;
+  height: 38px;
+  position: relative;
+  text-align: left;
+  display: inline-block;
+  z-index: 2;
+}
+.featured-insights {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-lightsteelblue);
+  align-self: stretch;
+  height: 70px;
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-xl) var(--padding-3xs);
+  box-sizing: border-box;
+  min-width: 250px;
+  z-index: 1;
+}
+.confirmation-page-title,
+.featured-insights,
+.nama-lengkap1,
+.no-h-p-input3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.no-h-p-input3 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.confirmation-page-title,
+.nama-lengkap1 {
+  max-width: 100%;
+}
+.nama-lengkap1 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-9xl);
+}
+.confirmation-page-title {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-42xl) var(--padding-10xl) var(--padding-39xl);
+  box-sizing: border-box;
+}
+.daftar4 {
+  width: 235px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  flex-shrink: 0;
+}
+.daftar-frame,
+.frame-wrapper163,
+.google-sign-in-button-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.daftar-frame {
+  flex: 1;
+  border-radius: var(--br-mini);
+  background-color: var(--color-cornflowerblue-300);
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: var(--padding-base) var(--padding-68xl);
+  box-sizing: border-box;
+}
+.frame-wrapper163,
+.google-sign-in-button-inner {
+  justify-content: flex-start;
+}
+.frame-wrapper163 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex: 1;
+  z-index: 1;
+}
+.google-sign-in-button-inner {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.atau-daftar-dengan1 {
+  height: 38px;
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-900);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: calc(100% - 0px);
+}
+.atau-daftar-dengan-wrapper {
+  align-self: stretch;
+  height: 41px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke-200);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.daftar-dengan-google {
+  height: 38px;
+  width: 314px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-900);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.share,
+.share-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.share {
+  flex: 1;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightsteelblue);
+  overflow: hidden;
+  justify-content: center;
+  padding: var(--padding-lg) var(--padding-xl) var(--padding-sm)
+    var(--padding-37xl);
+  box-sizing: border-box;
+}
+.share-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.sudah-punya-akun {
+  height: 38px;
+  width: 479px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-red-400);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 105%;
+}
+.sudah-punya-akun-masuk-sekara-wrapper {
+  height: 41px;
+  width: 512px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-1200);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0 var(--padding-37xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.atau-daftar-dengan,
+.atau-daftar-dengan-inner {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.atau-daftar-dengan-inner {
+  flex-direction: row;
+  cursor: pointer;
+  z-index: 1;
+}
+.atau-daftar-dengan {
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.google-sign-in-button {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-9xl);
+}
+.google-sign-in-button,
+.google-sign-in-button-wrapper,
+.image-container-group,
+.profile-form-title {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.google-sign-in-button-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-42xl) 0 var(--padding-34xl);
+  box-sizing: border-box;
+}
+.image-container-group,
+.profile-form-title {
+  flex: 1;
+}
+.profile-form-title {
+  margin: 0;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(#fffefe, #fffefe), #f5f5f5;
+  flex-direction: column;
+  padding: var(--padding-24xl) var(--padding-4xl) var(--padding-14xl)
+    var(--padding-23xl);
+  box-sizing: border-box;
+  gap: var(--gap-18xl);
+  min-width: 452px;
+}
+.image-container-group {
+  flex-direction: row;
+  gap: var(--gap-mini);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.daftar-inner,
+.daftar3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.daftar-inner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-16xl) 0 var(--padding-18xl);
+  max-width: 100%;
+}
+.daftar3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-42xl) 0 var(--padding-24xl);
+  gap: var(--gap-26xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .image-container7 {
+    flex: 1;
+  }
+  .image-container-group {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .menu-f-a-q {
+    display: none;
+  }
+  .daftar-sebagai-admin {
+    font-size: var(--font-size-13xl);
+  }
+  .image-container7 {
+    padding-top: var(--padding-9xl);
+    padding-bottom: 142px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .selamat-datang-di {
+    font-size: var(--font-size-13xl);
+  }
+  .daftar4 {
+    font-size: var(--font-size-7xl);
+  }
+  .profile-form-title {
+    padding-top: var(--padding-9xl);
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .menu-f-a-q {
+    gap: 45px 22px;
+  }
+  .rectangle-parent629 {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .image-container7 {
+    gap: 52px 104px;
+    padding: var(--padding-xl) var(--padding-14xl) var(--padding-73xl)
+      var(--padding-44xl);
+    box-sizing: border-box;
+  }
+  .confirmation-page-title {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .sudah-punya-akun-masuk-sekara-wrapper {
+    padding-left: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+  .google-sign-in-button-wrapper {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .profile-form-title {
+    gap: 18px 37px;
+    padding-left: var(--padding-2xl);
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .daftar3 {
+    gap: 22px 45px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .daftar-sebagai-admin {
+    font-size: var(--font-size-5xl);
+  }
+  .sign-up-message {
+    gap: 61px 122px;
+  }
+  .image-container7 {
+    gap: 26px 104px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .selamat-datang-di {
+    font-size: var(--font-size-5xl);
+  }
+  .daftar4,
+  .konfirmasi-password1,
+  .nama-lengkap2,
+  .no-hp,
+  .password4,
+  .password5 {
+    font-size: var(--font-size-lgi);
+  }
+  .daftar-frame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .atau-daftar-dengan1,
+  .daftar-dengan-google {
+    font-size: var(--font-size-lgi);
+  }
+  .share {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .sudah-punya-akun {
+    font-size: var(--font-size-lgi);
+  }
+}

@@ -1,0 +1,430 @@
+.frame-child,
+.frame-item {
+  position: relative;
+  z-index: 1;
+}
+.frame-child {
+  height: 105px;
+  width: 1440px;
+  background-color: var(--color-gray-1200);
+  display: none;
+  max-width: 100%;
+}
+.frame-item {
+  width: 163px;
+  flex: 1;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-wrapper {
+  height: 86px;
+  width: 296px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu {
+  width: 119px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.faq,
+.menu,
+.tentang-kami {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.faq {
+  width: 86px;
+}
+.tentang-kami {
+  align-self: stretch;
+  height: 74px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.about-us {
+  width: 350px;
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.about-us,
+.frame-container,
+.menu-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.menu-parent {
+  margin: 0;
+  align-self: stretch;
+  flex-direction: row;
+  gap: 57.5px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-container {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  margin: 0 0 0-78px;
+}
+.arrow-drop-down-icon {
+  width: 27px;
+  height: 30px;
+  position: relative;
+  overflow: auto;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.arrow-drop-down-wrapper {
+  height: 64px;
+  width: 273px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-15xl) 0 0;
+  box-sizing: border-box;
+  margin-left: -78px;
+}
+.daftar {
+  width: 187px;
+  height: 74px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.daftar-wrapper {
+  width: 265px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+  margin-left: -78px;
+}
+.masuk {
+  align-self: stretch;
+  height: 74px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.masuk-wrapper,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.masuk-wrapper {
+  width: 138px;
+  flex-direction: column;
+  padding: var(--padding-mid) 0 0;
+  margin-left: -78px;
+}
+.rectangle-parent {
+  align-self: stretch;
+  background-color: var(--color-gray-1200);
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-32xl) 0;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.image-2-icon {
+  height: 295px;
+  width: 630px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.pusat-perawatan-mobil {
+  height: 74px;
+  width: 586px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.commitment-message {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-22xl) 0;
+  box-sizing: border-box;
+  background-image: url(./public/image-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 409px;
+  min-height: 295px;
+  max-width: 100%;
+}
+.image-3-icon {
+  height: 295px;
+  width: 630px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.berkomitmen,
+.memberikan,
+.pelayanan,
+.terbaik {
+  margin: 0;
+}
+.berkomitmen-memberikan-pelayan-container {
+  height: 207px;
+  width: 276px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.best-service,
+.dedicated-care-message {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.best-service {
+  flex: 0.8603;
+  align-items: flex-end;
+  padding: 0 var(--padding-25xl);
+  box-sizing: border-box;
+  background-image: url(./public/image-3@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 409px;
+  min-height: 295px;
+}
+.dedicated-care-message {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-21xl);
+}
+.image-4-icon {
+  height: 295px;
+  width: 630px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.siap-melayani-sepenuh {
+  width: 525px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.image-4-parent {
+  flex: 0.9262;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-5xl) var(--padding-20xl);
+  box-sizing: border-box;
+  background-image: url(./public/image-42@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 409px;
+  min-height: 295px;
+  max-width: 100%;
+}
+.image-5-icon {
+  height: 295px;
+  width: 630px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.memberikan-produk-berkualitas {
+  height: 207px;
+  width: 276px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.image-5-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-lgi) var(--padding-mid);
+  box-sizing: border-box;
+  background-image: url(./public/image-52@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 409px;
+  min-height: 295px;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.dedicated-care-message1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-lilita-one);
+}
+.dedicated-care-message-parent,
+.dedicated-care-message1,
+.homepage,
+.homepage-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dedicated-care-message-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 72px;
+  max-width: 100%;
+}
+.homepage,
+.homepage-inner {
+  box-sizing: border-box;
+}
+.homepage-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-55xl) 0 var(--padding-47xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-lilita-one);
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-42xl) 0 var(--padding-59xl);
+  gap: 118px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .best-service,
+  .commitment-message {
+    flex: 1;
+    min-height: auto;
+  }
+  .dedicated-care-message {
+    flex-wrap: wrap;
+  }
+  .image-4-parent,
+  .image-5-parent {
+    flex: 1;
+    min-height: auto;
+  }
+  .dedicated-care-message1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .menu-parent {
+    display: none;
+  }
+  .berkomitmen-memberikan-pelayan-container,
+  .memberikan-produk-berkualitas,
+  .pusat-perawatan-mobil,
+  .siap-melayani-sepenuh {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .menu-parent {
+    gap: 57.5px 29px;
+  }
+  .rectangle-parent {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .best-service,
+  .commitment-message {
+    min-width: 100%;
+  }
+  .dedicated-care-message {
+    gap: 40px 20px;
+  }
+  .image-4-parent,
+  .image-5-parent {
+    min-width: 100%;
+  }
+  .dedicated-care-message1 {
+    gap: 40px 20px;
+  }
+  .dedicated-care-message-parent {
+    gap: 36px 72px;
+  }
+  .homepage-inner {
+    padding-left: var(--padding-14xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .homepage {
+    gap: 59px 118px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .berkomitmen-memberikan-pelayan-container,
+  .pusat-perawatan-mobil {
+    font-size: var(--font-size-5xl);
+  }
+  .best-service {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .memberikan-produk-berkualitas,
+  .siap-melayani-sepenuh {
+    font-size: var(--font-size-5xl);
+  }
+  .dedicated-care-message-parent {
+    gap: 18px 72px;
+  }
+  .homepage {
+    gap: 29px 118px;
+  }
+}
